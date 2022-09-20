@@ -4,7 +4,8 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>Cadence (Sao I) Kuan</Text>
+      <Text>301204757</Text>
       <StatusBar style="auto" />
     </View>
   );
